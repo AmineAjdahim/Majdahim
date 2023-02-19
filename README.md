@@ -78,6 +78,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/Vue.js" style="padding-right:10px;" />
 
 <br/>
 
@@ -94,7 +95,7 @@
 
 
 ---------------
-| [![Nmoussammi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmineAjdahim&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/AmineAjdahim?tab=repositories) | [![Nmoussammi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineAjdahim&layout=compact&hide_border=true&theme=jolly)](https://github.com/AmineAjdahim?tab=repositories) |
+| [![AmineAjdahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmineAjdahim&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/AmineAjdahim?tab=repositories) | [![AmineAjdahim's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineAjdahim&layout=compact&hide_border=true&theme=jolly)](https://github.com/AmineAjdahim?tab=repositories) |
 |:-:|:-:|
 
 
