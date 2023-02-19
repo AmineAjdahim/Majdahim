@@ -45,25 +45,25 @@
 
 ┌──┤ My Projects├───────▰▰▰<br>
 
-─◈ <a href="https://github.com/Nmoussammi/Portfolio">Portfolio</a><br>
+<!-- ─◈ <a href="https://github.com/Nmoussammi/Portfolio">Portfolio</a><br>
 ─◈ <a href="https://github.com/Nmoussammi/Simple-Website-Design">Simple Website Design</a><br>
-─◈ <a href="https://github.com/Nmoussammi/nft-card-component">Nft Card Component</a> <br>
+─◈ <a href="https://github.com/Nmoussammi/nft-card-component">Nft Card Component</a> <br> -->
 └───────────────────────────────▰▰▰
 <br>
 
   <p align="center">
-	<a href="mailto:nmoussammi@gmail.com">
-		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:nmoussammi@gmail.com" />
+	<a href="mailto:amine.ajdahim.7@gmail.com">
+		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:amine.ajdahim.7@gmail.com" />
 	</a>
 	<span> * </span>
-	<a href="https://www.linkedin.com/in/nouhaila-moussammi/">
-		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nouhaila-moussammi/" />
+	<a href="https://www.linkedin.com/in/amine-ajdahim/">
+		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amine-ajdahim/" />
 	</a>
 	<span> * </span>
 <!--   	<a href="https://https://discord.com/users/nmoussam#7557">
 		<img alt="Twitter Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Discord&logoColor=white&link=https://https://discord.com/users/nmoussam#7557" />
 	</a> -->
-	<a href="https://https://www.discord.com/users/nmoussam#7557">
+	<a href="https://https://www.discord.com/users/amine-ajdahim">
 		<img alt="Twitter Profile" src="https://badgen.net/badge/icon/discord?icon=discord&label" />
 	</a>
 </p>
@@ -84,9 +84,9 @@
 
 <br>
 <p align="left">
-	<img alt="Nmoussammi's visitors" src="https://komarev.com/ghpvc/?username=AmineAjdahim&color=8c36db&style=flat&label=visitors" />
-	<img alt="Nmoussammi's followers" src="https://img.shields.io/github/followers/AmineAjdahim?color=blueviolet" />
-	<img alt="Nmoussammi's stars" src="https://img.shields.io/github/stars/AmineAjdahim?color=blueviolet" />
+	<img alt="AmineAjdahim's visitors" src="https://komarev.com/ghpvc/?username=AmineAjdahim&color=8c36db&style=flat&label=visitors" />
+	<img alt="AmineAjdahim's followers" src="https://img.shields.io/github/followers/AmineAjdahim?color=blueviolet" />
+	<img alt="AmineAjdahim's stars" src="https://img.shields.io/github/stars/AmineAjdahim?color=blueviolet" />
 </p>
 
 
