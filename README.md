@@ -3,8 +3,8 @@
 <br> -->
 <img align="center" alt="logo" width="1000" src="https://github.com/Nmoussammi/Nmoussammi/blob/main/Untitled%20design.gif"><br>
 
-<h1 align="center">Hi 👋 I'm MOUSSAMMI Nouhaila</h1>
-<h3 align="center">A PhD Researcher in Mobile Edge Computing and Front-End Developer </h3>
+<h1 align="center">Hi 👋 I'm Ajdahim Mohammed Amine</h1>
+<h3 align="center">A Full Stack Developer </h3>
 <!-- # Hi 👋  I'm  Nouhaila Moussammi 
 ## I'm a PhD Researcher in Mobile Edge Computing and Front-End Developer !! -->
 
@@ -15,18 +15,16 @@
 ┌──┤ About Me ├─────────▰▰▰<br>
 <br>
 ─▣ Student at  <a href="https://www.1337.ma">1337</a><br>
-─▣ PhD Student at  <a href="http://www.fsr.ac.ma/">FSR</a><br>
-─▣ Master's degree (CLOUDHPC) <a href="http://ensias.um5.ac.ma/">ENSIAS</a><br>
-─▣ Interested in Cloud Computing, Devops, Web Development. <br>
+─▣ Interested in Automation, Devops, Full Stack, CI/CD <br>
 ─▣ From Casablanca, Morocco <br>
 <br>
 └───────────────────────────────▰▰▰
 
 ### Connect with me:
 
-─◈ <a href="https://www.linkedin.com/in/nouhaila-moussammi">LinkedIn</a><br>
-─◈ <a href="https://www.instagram.com/nouhaila.moussammi">Instagram</a><br>
-─◈ Discord: nmoussam#7557
+─◈ <a href="https://www.linkedin.com/in/amine-ajdahim">LinkedIn</a><br>
+─◈ <a href="https://www.instagram.com/samurai_maj">Instagram</a><br>
+─◈ Discord: Samurai#4112
 
 ┌──┤ Project 42├───────▰▰▰<br>
 
