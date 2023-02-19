@@ -1,7 +1,7 @@
 <!-- - 🌱 I’m currently learning everything 
 - 🥅 2022 Goals: Learn more about web3 
 <br> -->
-<img align="center" alt="logo" width="1000" src="https://github.com/Nmoussammi/Nmoussammi/blob/main/Untitled%20design.gif"><br>
+<!-- <img align="center" alt="logo" width="1000" src="https://github.com/Nmoussammi/Nmoussammi/blob/main/Untitled%20design.gif"><br> -->
 
 <h1 align="center">Hi 👋 I'm Ajdahim Mohammed Amine</h1>
 <h3 align="center">A Full Stack Developer </h3>
