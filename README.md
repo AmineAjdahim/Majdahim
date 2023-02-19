@@ -28,17 +28,13 @@
 
 ┌──┤ Project 42├───────▰▰▰<br>
 
-─◈ <a href="https://github.com/Nmoussammi/Libft">Libft</a><br>
-─◈ <a href="https://github.com/Nmoussammi/Get_Next_Line">Get_next_line</a><br>
+─◈ <a href="https://github.com/AmineAjdahim/get_next_line">Get_next_line</a><br>
 ─◈ <a href="https://github.com/Nmoussammi/ft_printf">Ft_printf</a><br>
-─◈ <a href="https://github.com/Nmoussammi/Born2beRoot">Born2beRoot</a><br>
-─◈ <a href="https://github.com/Nmoussammi/minitalk">Minitalk</a><br>
-─◈ <a href="https://github.com/Nmoussammi/so_long">So_long</a><br>
-─◈ <a href="https://github.com/Nmoussammi/Push_swap">Push_swap</a><br>
-─◈ <a href="https://github.com/Nmoussammi/Philosopher">Philosopher</a><br>
-─◈ <a href="https://github.com/Nmoussammi/Minishell">Minishell</a><br>
-─◈ <a href="https://github.com/Nmoussammi/Cub3d">Cub3d</a><br>
-─◈ <a href="https://github.com/Nmoussammi/ft_transcendence">ft_transcendence</a><br>
+─◈ <a href="https://github.com/AmineAjdahim/push_swap">Push_swap</a><br>
+─◈ <a href="https://github.com/AmineAjdahim/Philosophers">Philosopher</a><br>
+─◈ <a href="https://github.com/khabouss/minishell">Minishell</a><br>
+─◈ <a href="https://github.com/AmineAjdahim/cub3d">Cub3d</a><br>
+─◈ <a href="https://github.com/azeddine-hmd/ft_transcendence">ft_transcendence</a><br>
 └───────────────────────────────▰▰▰
 
 <br>
